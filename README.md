@@ -1,5 +1,5 @@
 # SplineFit.jl
-Function approximation on discrete data and interpolation using cubic splines.
+Function approximation on discrete data and interpolation using cubic splines. Spline fitting is done using least squares regression. The spline nodes are spaced uniformly for now.
 
 
 
